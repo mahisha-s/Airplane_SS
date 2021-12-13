@@ -48,14 +48,4 @@ print ("NO \t ROW \t COLUMN \t SEAT ALLOCATED")
 for i in range(passenger):
     final_seat.append(entire_record[i])
     print(str(i+1)+"\t  "+str(entire_record[i][0])+"\t\t\t"+str(entire_record[i][1])+"\t\t\t"+str(entire_record[i][2]))
-
-
-
- 
-
-
-
-
-
-
-
+    
